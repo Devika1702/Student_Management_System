@@ -1,7 +1,8 @@
 Student Management System
+
 A console-based Python application for managing student information in educational institutions. This system allows administrators to add, view, edit, and delete student data, securely stored in a MySQL database.
 
-Features
+Features:
 
 User Registration and Login:
 Register with email, username, and password.
